@@ -12,4 +12,4 @@ if _name=="main_":
         a = 20
         b = 30
     result = sum_numbers(a, b)
-    print("Sum:", result)
+    print("Sum:",result)
